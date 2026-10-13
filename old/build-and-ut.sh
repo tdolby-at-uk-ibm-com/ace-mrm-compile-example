@@ -6,6 +6,8 @@
 # Licensed under the MIT license (see LICENSE for details)
 #
 
+set -e # Fail on error
+
 # Create the work directory
 mqsicreateworkdir /tmp/ace-mrm-compile-example-work-dir
 
