@@ -43,4 +43,4 @@ jobs:
           export DISPLAY=:99
           sleep 5
 
-          ./build-and-ut.sh
+          ./old/build-and-ut.sh
