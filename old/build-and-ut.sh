@@ -27,7 +27,7 @@ echo ========================================================================
 echo Optimize unit test server
 echo ========================================================================
 # ibmint optimize server new for v12.0.4
-ibmint optimize server --work-directory /tmp/ace-mrm-compile-example-work-dir
+ibmint optimize server --work-directory /tmp/ace-mrm-compile-example-work-dir --disable NodeJS
 
 echo ========================================================================
 echo Run unit tests
