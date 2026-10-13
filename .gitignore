@@ -7,5 +7,9 @@
 # Backup files
 *~
 
+*/bin/*
+*/*.jar
+
 # Undo-tree save-files
 *.~undo-tree
+/.metadata/
